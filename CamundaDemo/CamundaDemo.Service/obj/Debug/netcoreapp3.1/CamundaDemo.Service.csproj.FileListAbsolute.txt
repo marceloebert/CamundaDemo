@@ -1,0 +1,12 @@
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\bin\Debug\netcoreapp3.1\CamundaDemo.Service.deps.json
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\bin\Debug\netcoreapp3.1\CamundaDemo.Service.dll
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\bin\Debug\netcoreapp3.1\CamundaDemo.Service.pdb
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\bin\Debug\netcoreapp3.1\CamundaDemo.Models.dll
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\bin\Debug\netcoreapp3.1\CamundaDemo.Models.pdb
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.csprojAssemblyReference.cache
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.AssemblyInfo.cs
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.csproj.CopyComplete
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.dll
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Service\obj\Debug\netcoreapp3.1\CamundaDemo.Service.pdb

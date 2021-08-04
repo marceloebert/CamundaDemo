@@ -1,0 +1,17 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.13",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "ServiceBusConnectionString",
+      "queueName": "notifica.cliente",
+      "isSessionsEnabled": false,
+      "autoComplete": true,
+      "name": "task"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/CamundaDemo.Functions.dll",
+  "entryPoint": "CamundaDemo.Functions.NotificaCliente.Run"
+}

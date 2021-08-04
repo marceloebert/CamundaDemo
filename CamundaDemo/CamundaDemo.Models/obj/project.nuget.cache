@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjxwAUlffd/IFKDyb6dVKulMsVCu+n1rMU/LETO8cKKnGkfGY4z9LxiCBavtByT8DcOE0hawGXMkHvsP1jEEWw==",
+  "success": true,
+  "projectFilePath": "D:\\Desenvolvimento\\CamundaDemo\\CamundaDemo\\CamundaDemo.Models\\CamundaDemo.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ebert\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

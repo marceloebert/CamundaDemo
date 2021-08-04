@@ -1,0 +1,9 @@
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\bin\Debug\netcoreapp3.1\CamundaDemo.Models.deps.json
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\bin\Debug\netcoreapp3.1\CamundaDemo.Models.dll
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\bin\Debug\netcoreapp3.1\CamundaDemo.Models.pdb
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.AssemblyInfo.cs
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.dll
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.pdb
+D:\Desenvolvimento\CamundaDemo\CamundaDemo\CamundaDemo.Models\obj\Debug\netcoreapp3.1\CamundaDemo.Models.csprojAssemblyReference.cache
